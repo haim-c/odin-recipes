@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soufflé</title>
+</head>
+<body>
+    <h1>Soufflé!</h1>
+    <img src="https://www.allrecipes.com/thmb/m850lVP4a5WdlVZHQFWRohc5sq8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3934018-312aea77f669434b8015192960e402af.jpg" alt="Small Spicy Soufflé">
+    
+    <h2>Description</h2>
+    <p>
+        A soufflé is a delicate French dish made from egg yolks and whipped egg whites, baked to achieve 
+        a light, airy texture. It can be savory or sweet, with flavors like cheese, chocolate, or fruit. 
+        Served hot, it impresses with its dramatic rise and soft, cloud-like interior.
+    </p>
+    
+    <h3>Ingredients</h3>
+    <ul>
+        <li>Eggs</li>
+        <li>Butter</li>
+        <li>Pan</li>
+    </ul>
+
+    <h3>Steps</h3>
+    <ol>
+        <li>Get a pan!</li>
+        <li>Get the eggs and butter</li>
+        <li>Cook!</li>
+    </ol>
+
+    <p>
+        <a href="odin-recipes/index.html">BACK</a>
+    </p>
+</body>
+</html>
